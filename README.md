@@ -1,4 +1,4 @@
-# 🎭 Real vs Fake Face Detection - Proyecto de Machine Learning
+# Real vs Fake Face Detection - Proyecto de Machine Learning
 
 Bienvenido al repositorio oficial del proyecto de clasificación de rostros (Imágenes Reales vs. Deepfakes). Este proyecto utiliza Redes Neuronales Convolucionales (CNN) para analizar y predecir la autenticidad de un dataset masivo de un millón de imágenes.
 
@@ -8,7 +8,7 @@ Bienvenido al repositorio oficial del proyecto de clasificación de rostros (Im�
 
 ---
 
-## 🏗️ Estructura y Equipos
+## Estructura y Equipos
 
 ### 1. DevOps / Infraestructura
 Responsables de mantener la operabilidad del hardware, control de versiones y almacenamiento masivo.
@@ -39,7 +39,7 @@ Responsables de la arquitectura predictiva y evaluación matemática.
 
 ---
 
-## 📂 Estructura del Repositorio (Directorios)
+## Estructura del Repositorio (Directorios)
 
 El código debe mantenerse organizado según el equipo y la tarea. Por favor, utilicen la siguiente estructura:
 
