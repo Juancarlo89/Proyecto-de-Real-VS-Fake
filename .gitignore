@@ -1,0 +1,17 @@
+# Ignorar datasets e imágenes
+*.jpg
+*.jpeg
+*.png
+/data/
+/datasets/
+
+# Ignorar modelos pesados de IA
+*.h5
+*.pt
+*.pth
+*.weights
+
+# Ignorar archivos temporales de Python y Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
